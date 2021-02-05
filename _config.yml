@@ -5,10 +5,10 @@ markdown: kramdown
 
 # MyData
 owner:
-  name:           SungHoon Moon
-  avatar:         photo.jpg
-  bio:            "Ph.D. in Computer Science"
-  email:          moon9342@gmail.com
+  name:           Hyeongseok Lee
+  avatar:         " "
+  bio:            ""
+  email:          kea7109@naver.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:
   facebook:
@@ -34,7 +34,7 @@ paginate: 20
 language: 'en-uk'
 # 언어 설정
 
-url: https://moon9342.github.io
+url: https://Lee-HyeongSeok.github.io
 # Google Search Console에서 사용하는 sitemap.xml 생성시
 # 이 url key값이 존재하지 않으면 sitemap.xml이
 # 정상적으로 생성되지 않는다.
@@ -45,25 +45,25 @@ url: https://moon9342.github.io
 baseurl: /
 
 # Website info
-title: IT Technical Training
+title: 
 # 자신의 blog title.
 
-description: IT기반기술교육 블로그
+description: 
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
-cover: assets/built/images/blog-cover1.png
+cover: 
 # blog home에 표시될 blog cover image.
 
 logo:
 logo_dark:
 
-favicon: assets/built/images/favicon.jpg
+favicon: 
 # favicon으로 사용할 image
 
-production_url: https://moon9342.github.io/
+production_url: https://Lee-HyeongSeok.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://github.com/moon9342/GitHubPageMaker/
+source_url: https://github.com/Lee-HyeongSeok/Lee-HyeongSeok.github.io
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -110,8 +110,8 @@ feed:
 safe: False
 lsi: False
 
-username: moon9342
-repo: GitHubPageMaker
+username: Lee-HyeongSeok
+repo: https://github.com/Lee-HyeongSeok/Lee-HyeongSeok.github.io
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
